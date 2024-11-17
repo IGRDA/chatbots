@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+PyMuPDF
+sentence-transformers
+langchain
+langchain-community
+faiss-cpu
+selenium
+langchain-ollama
+streamlit
