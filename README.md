@@ -44,7 +44,7 @@ Run the notebook in:
 
 ## Notes
 
-The code utilizes open-source LLMs that can be run locally. It uses lama3.1:8b for RAG and qwen:32b for agents, as agents require more powerful models. These models can easily be swapped with proprietary models, significantly improving both the accuracy and quality of the results. For becnhmarking see for example https://artificialanalysis.ai/leaderboards/models.
+The code utilizes open-source LLMs that can be run locally. It uses *lama3.1:8b* for RAG and *qwen:32b* for agents, as agents require more powerful models. These models can easily be swapped with proprietary models, significantly improving both the accuracy and quality of the results. For becnhmarking see for example https://artificialanalysis.ai/leaderboards/models.
 
 
 ## License
