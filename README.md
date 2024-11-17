@@ -32,6 +32,7 @@ To run the code, you'll need Python 3.8 or higher.
    cd smowltech-chatbotstreamlit/
    streamlit run app.py
    ```
+![SmilyOwl chatbot](smowltech-chatbot/streamlit/images/smowl-chatbot.gif)
 
 
 ## License
