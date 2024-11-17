@@ -5,7 +5,7 @@ This repository contains code for building proof-of-concept (POC) chatbots using
 
 ## Requirements
 
-To run the code, you'll need Python 3.8 or higher.
+To run the code, you'll need Python 3.9 or higher.
 
 1. Clone the repository:
    ```bash
