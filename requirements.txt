@@ -9,3 +9,5 @@ faiss-cpu
 selenium
 langchain-ollama
 streamlit
+duckduckgo-search
+langchain-experimental

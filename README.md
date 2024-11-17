@@ -22,7 +22,8 @@ To run the code, you'll need Python 3.8 or higher.
 - First, install Ollama from [Ollama's official website](https://ollama.com/).
 - Then, run the following command to pull the Llama 3.1 model:
   ```
-  ollama pull llama3.1
+  ollama pull llama3.1:8b
+  ollama pull qwen:32b
   ```
 
 ## Chatbot Examples
@@ -33,6 +34,17 @@ To run the code, you'll need Python 3.8 or higher.
    streamlit run app.py
    ```
 ![SmilyOwl chatbot](smowltech-chatbot/streamlit/images/smowl-chatbot.gif)
+
+### Agents and tools:
+Run the notebook in:
+   ```
+   cd /Users/inaki.gorostiaga/Personal/chatbots/agents-tools/notebooks
+   ```
+![Agents and tools notebook](agents-tools/notebooks/images/agent-example.png)
+
+## Notes
+
+The code utilizes open-source LLMs that can be run locally. It uses lama3.1:8b for RAG and qwen:32b for agents, as agents require more powerful models. These models can easily be swapped with proprietary models, significantly improving both the accuracy and quality of the results. For becnhmarking see for example https://artificialanalysis.ai/leaderboards/models.
 
 
 ## License
