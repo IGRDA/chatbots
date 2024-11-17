@@ -18,9 +18,9 @@ To run the code, you'll need Python 3.8 or higher.
     pip install -r requirements.txt
    ```
 
-3. Download Ollama and pull the Llama 3.1 model:
+3. Download Ollama and pull the models:
 - First, install Ollama from [Ollama's official website](https://ollama.com/).
-- Then, run the following command to pull the Llama 3.1 model:
+- Then, run the following command to pull the models:
   ```
   ollama pull llama3.1:8b
   ollama pull qwen:32b
