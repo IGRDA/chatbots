@@ -40,7 +40,7 @@ Run the notebook in:
    ```
    cd /Users/inaki.gorostiaga/Personal/chatbots/agents-tools/notebooks
    ```
-![Agents and tools notebook](agents-tools/notebooks/images/agent-example.png)
+![Agents and tools notebook](agents-tools/images/agent-example.png)
 
 ## Notes
 
